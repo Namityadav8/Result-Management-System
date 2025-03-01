@@ -16,8 +16,7 @@ The **Result Management System** is a software application designed to manage st
 - Python
 - Flask (Backend Framework)
 - MongoDb (Database)
-- HTML/CSS (Frontend)
-- Bootstrap (UI Design)
+
 
 ## Installation
 ### Prerequisites
