@@ -1,0 +1,7 @@
+flask
+kafka-python
+pymongo
+mrjob
+pyspark
+plotly
+pandas
